@@ -120,12 +120,7 @@
 
 			<input type="submit" value="enviar"/>
 			</fieldset>
-		</form>
-
-		
-		<div id="footnote">
-			
-			
+		</form>	
 		</div>		
 	</body>
 </html>
