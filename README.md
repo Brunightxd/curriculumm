@@ -1,6 +1,5 @@
 # curriculumm
 
-			"http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
 		<title>Curriculum Bruno Marques</title>
@@ -9,7 +8,7 @@
 	</head>
 	
 	<body>
-		<h1>Currículo Vitae</h1>
+		<h1>Currículo Bruno Marques</h1>
 
 		<img src="https://s.gravatar.com/avatar/8908a077b1214c3c9a2eb4539746e7f6?s=80.jpg?size=200" alt="photo of Bruno" class="photo"/>
 				  		
@@ -30,7 +29,7 @@
 				
 				
 				<div class="adr">
-				  <span class="locality">Belo horizonte</span>
+				  <span class="locality">Belo Horizonte</span>
 				, 
 				  <span class="region">Minas gerais</span>
 
@@ -41,9 +40,9 @@
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label>Imperio</p>
-			<p><label>Empresa</label>Casa & tintas</p>
-			<p><label>Empresa</label>Atonomo</p>
+			<p><label>Empresa</label>  Imperio</p>
+			<p><label>Empresa</label>  Casa & tintas</p>
+			<p><label>Empresa</label>  Autonomo</p>
 		</div>
 
 		<div class="secao">
@@ -125,8 +124,8 @@
 
 		
 		<div id="footnote">
-			<li id="1-fn">1 - Microformato <a href="#fn1" title="volte">^</a></li>
-			<li>Este <a href="http://microformats.org/wiki/hcard">hCard</a> foi criado com <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</li>
+			
+			
 		</div>		
 	</body>
 </html>
