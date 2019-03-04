@@ -1,9 +1,9 @@
 # curriculumm
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+
 			"http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
-		<title>Curriculo Vitae</title>
+		<title>Curriculum Bruno Marques</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
@@ -11,28 +11,28 @@
 	<body>
 		<h1>Currículo Vitae</h1>
 
-		<img src="http://br.gravatar.com/userimage/14935412/cef5ab9d2ae46b1f6371dddbc99f667e.jpg?size=200" alt="photo of Ademir" class="photo"/>
+		<img src="https://s.gravatar.com/avatar/8908a077b1214c3c9a2eb4539746e7f6?s=80.jpg?size=200" alt="photo of Bruno" class="photo"/>
 				  		
 		<ul id="menu">
-			<li><a href="cv-resumido.html">Resumido</a></li>
+			
 			<li class="ativo">Completo</li>
 		</ul>
 		
 		<div class="secao">
 			<h2>Dados Pessoais</h2>			
-				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
-				 <span class="given-name">Ademir</span>
-				  <span class="additional-name">Mazer</span>
-				  <span class="family-name">Jr</span>
+				<div id="hcard-Bruno Marques" class="vcard">
+				 <span class="given-name">Bruno</span>
+				  <span class="additional-name">Marques</span>
+				  <span class="family-name">Santos</span>
 				<sup><a href="#1-fn" id="fn1" title="veja o rodapé">1</a></sup>
 
-				 <a class="email" href="mailto:ademir.mazer.jr@gmail.com">ademir.mazer.jr@gmail.com</a>
-				 <a class="url" href="http://ademir.winponta.com.br">http://ademir.winponta.com.br</a>
+				 <a class="email" href="brunightmarques@hotmail.com">brunight15@gmail.com</a>
+				
 				
 				<div class="adr">
-				  <span class="locality">Ponta Grossa</span>
+				  <span class="locality">Belo horizonte</span>
 				, 
-				  <span class="region">Paraná</span>
+				  <span class="region">Minas gerais</span>
 
 				 </div>
 				</div>
@@ -41,18 +41,16 @@
 		<div class="secao">
 			<h2>Dados Profissionais</h2>
 			
-			<p><label>Empresa</label>UTFPR</p>
-			<p><label>Empresa</label>Copel</p>
-			<p><label>Empresa</label>Winponta</p>
+			<p><label>Empresa</label>Imperio</p>
+			<p><label>Empresa</label>Casa & tintas</p>
+			<p><label>Empresa</label>Atonomo</p>
 		</div>
 
 		<div class="secao">
 			<h2>Formação Acadêmica</h2>
 			
-			<p><label>Curso</label>Mestrando Engenharia de Produção</p>
-			<p><label>Curso</label>Especialista Linguagem Java</p>
-			<p><label>Curso</label>Especialista Ciências da Computação</p>
-			<p><label>Curso</label>Bacharel Informática</p>
+			<p><label>Curso</label>tecnico em eletronica </p>
+			<p><label>Curso</label>Bacharel sistemas de informações</p>
 		</div>
 
 		<div class="secao">
@@ -96,14 +94,14 @@
 				</thead>
 				<tr class="par">
 					<td>Inglês</td>
-					<td class="bom">Bom</td>
-					<td class="bom">Bom</td>
+					<td class="bom">Regular</td>
+					<td class="bom">Regular</td>
 					<td class="otimo">Ótimo</td>
 				</tr>
 				<tr class="impar">
 					<td>Espanhol</td>
-					<td class="ruim">Ruim</td>
-					<td class="ruim">Ruim</td>
+					<td class="ruim">Bom</td>
+					<td class="ruim">Bom</td>
 					<td class="regular">Regular</td>
 				</tr>
 			</table>			
